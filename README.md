@@ -1,1 +1,1 @@
-# jjkowalski-github.io
+# jjkowalski.github.io
